@@ -1105,7 +1105,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   position: relative;
   padding-left: 30px;
   margin-bottom: 15px;
-  cursor: pointer;
+  /*cursor: pointer;*/
   font-size: 18px; }
   .control .caption {
     position: relative;
